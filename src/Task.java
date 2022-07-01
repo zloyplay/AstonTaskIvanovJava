@@ -43,6 +43,7 @@ public class Task {
             if (j % 3 == 0 && j != 0)
                 System.out.print(j + ", ");
         }
+        System.out.println();
     }
     public static void taskName(){
         System.out.println("Введите имя 'Вячеслав':.");
