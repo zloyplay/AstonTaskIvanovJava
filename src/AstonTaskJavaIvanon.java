@@ -5,7 +5,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
-public class Task {
+public class AstonTaskJavaIvanon {
     public static String name;
     public static List<Integer> array = new ArrayList<>();
     public static Scanner sc = new Scanner(System.in);
